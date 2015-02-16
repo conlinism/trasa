@@ -1,0 +1,15 @@
+{
+  "name": "trasa",
+  "version": "0.0.1",
+  "description": "Trasa is an modern, minimalist IRC client built for developers and designers with support for plugins, theme customization, and external integrations.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "irc",
+    "application"
+  ],
+  "author": "Conlin Durbin",
+  "license": "ISC"
+}
